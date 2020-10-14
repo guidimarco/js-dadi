@@ -1,118 +1,26 @@
 /* ||||| RESET E NORMALIZZAZIONE ||||| */
 /* <editor-fold */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
 
 /* </editor-fold> */
 /* \\\\\ RESET E NORMALIZZAZIONE ///// */
-
-/* ||||| ALL DOC CLASSES ||||| */
-/* <editor-fold */
-
-/* </editor-fold> */
-/* \\\\\ ALL DOC CLASSES ///// */
-
-/* ||||| SYMBOLS ||||| */
-/* <editor-fold */
-
-/* </editor-fold> */
-/* \\\\\ SYMBOLS ///// */
-
-/* ||||| LINKS ||||| */
-/* <editor-fold */
-
-/* </editor-fold> */
-/* \\\\\ LINKS ///// */
-
-/* ||||| QUOTE ||||| */
-/* <editor-fold */
-
-/* </editor-fold> */
-/* \\\\\ END QUOTE ///// */
-
-/* ||||| BUTTONS ||||| */
-/* <editor-fold */
-
-/* </editor-fold> */
-/* \\\\\ BUTTONS ///// */
-
 
 /* ---------------- */
 /* ---------------- */
 /* ----- HTML ----- */
 /* ---------------- */
 /* ---------------- */
-
-/* ||||| HEADER ||||| */
-/* <editor-fold */
-
-/* ***** HEADER-DIV ***** */
-/* #region */
-
-/* #endregion */
-/* ***** HEADER-DIV ***** */
-
-/* </editor-fold> */
-/* \\\\\ END HEADER ///// */
-
-/* ----------------------- */
-/* ----------------------- */
-/* ----- MEDIA QUERY ----- */
-/* ----------------------- */
-/* ----------------------- */
-
-/* XS */
-@media screen and (min-width: 576px) {
-    /* ||||| HEADER ||||| */
-    /* <editor-fold */
-
-    /* ***** HEADER-DIV ***** */
-    /* #region */
-
-    /* #endregion */
-    /* ***** HEADER-DIV ***** */
-
-    /* </editor-fold> */
-    /* \\\\\ END HEADER ///// */
+#wrapper {
+    height: 100vh;
+    color: black;
+    background-color: #77dd77;
+    padding: 10px;
 }
-/* SM */
-@media screen and (min-width: 768px) {
-    /* ||||| HEADER ||||| */
-    /* <editor-fold */
-
-    /* ***** HEADER-DIV ***** */
-    /* #region */
-
-    /* #endregion */
-    /* ***** HEADER-DIV ***** */
-
-    /* </editor-fold> */
-    /* \\\\\ END HEADER ///// */
-}
-/* MD */
-@media screen and (min-width: 992px) {
-    /* ||||| HEADER ||||| */
-    /* <editor-fold */
-
-    /* ***** HEADER-DIV ***** */
-    /* #region */
-
-    /* #endregion */
-    /* ***** HEADER-DIV ***** */
-
-    /* </editor-fold> */
-    /* \\\\\ END HEADER ///// */
-}
-/* LG */
-@media screen and (min-width: 1200px) {
-    /* ||||| HEADER ||||| */
-    /* <editor-fold */
-
-    /* ***** HEADER-DIV ***** */
-    /* #region */
-
-    /* #endregion */
-    /* ***** HEADER-DIV ***** */
-
-    /* </editor-fold> */
-    /* \\\\\ END HEADER ///// */
-}
-/* XL */
